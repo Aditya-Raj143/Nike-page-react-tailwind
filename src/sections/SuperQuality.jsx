@@ -8,7 +8,7 @@ const SuperQuality = () => {
         <h2 className="font-palanquin text-4xl capitalize font-bold lg:max-w-lg">
           We Provide You
           <span className="text-coral-red" > Super </span> 
-          <span className="text-coral-red" >Quality</span> 
+          <span className="text-coral-red" >Quality</span> Shoes 
         </h2>
         <p className="mt-4 lg:max-w-lg info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam illum odio omnis. Quas recusandae quia ullam consectetur, atque vitae id repellat voluptate, quos tempora laborum.</p>
         <p className="mt-6 lg:max-w-lg info-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt ratione quis ipsum ipsa?</p>
