@@ -26,7 +26,7 @@ const Nav = () => {
                 </li>
               ))}
             </ul>
-            <div className='hidden max-lg:block'>
+            <div className='hidden cursor-pointer max-lg:block'>
               <img 
                 src={hamburger}
                 alt='hamburger'
